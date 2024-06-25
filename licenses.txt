@@ -1,5 +1,5 @@
 Akira,Lifetime
-John Doe,30
+Tomket,30
 Jane Smith,90
 Alex Johnson,Lifetime
 Maria Garcia,60
