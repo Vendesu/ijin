@@ -1,1 +1,5 @@
-Akira,Lifetime,2099-12-31T23:59:59
+Akira,Lifetime
+John Doe,30
+Jane Smith,90
+Alex Johnson,Lifetime
+Maria Garcia,60
