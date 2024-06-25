@@ -1,8 +1,2 @@
 Akira,Lifetime
-Tomket,30
-Jane Smith,90
-Alex Johnson,Lifetime
-Maria Garcia,60
-
-AkiraV2|2298-04-09
 AkiraV3,10
