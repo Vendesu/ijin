@@ -1,3 +1,4 @@
 Akira,Lifetime
 AkiraV3,10
 DTKAYAPLER,100
+AkiraV7,99999999
